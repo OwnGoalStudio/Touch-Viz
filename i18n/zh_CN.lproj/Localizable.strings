@@ -1,0 +1,71 @@
+/* No comment provided by engineer. */
+"Enable Touch-Viz" = "启用 Touch-Viz";
+
+/* No comment provided by engineer. */
+"Only for Recording" = "仅录屏显示";
+
+/* No comment provided by engineer. */
+"Displays touch indicators only during screen recording." = "仅在屏幕录制期间显示触摸指示器。";
+
+/* No comment provided by engineer. */
+"Tracking Effect" = "跟踪效果";
+
+/* No comment provided by engineer. */
+"Morph Effect" = "变形效果";
+
+/* No comment provided by engineer. */
+"Fill Color" = "填充颜色";
+
+/* No comment provided by engineer. */
+"Border Color" = "边框颜色";
+
+/* No comment provided by engineer. */
+"Animation Duration" = "动画持续时间";
+
+/* No comment provided by engineer. */
+"Fill Size" = "填充大小";
+
+/* No comment provided by engineer. */
+"Lift Scale" = "抬起缩放";
+
+/* No comment provided by engineer. */
+"Border Width" = "边框宽度";
+
+/* No comment provided by engineer. */
+"Reset to Default" = "重置设置";
+
+/* No comment provided by engineer. */
+"Are you sure you want to reset all settings to their default values?" = "你确定要还原所有设置为默认值吗？";
+
+/* No comment provided by engineer. */
+"Reset" = "重置";
+
+/* No comment provided by engineer. */
+"Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"Follow me on Twitter" = "在推特上关注我";
+
+/* No comment provided by engineer. */
+"Source Code" = "源代码";
+
+/* No comment provided by engineer. */
+"Donate" = "小费罐";
+
+/* No comment provided by engineer. */
+"Donate me via PayPal" = "通过 PayPal 向我捐赠";
+
+/* No comment provided by engineer. */
+"Effects" = "效果";
+
+/* No comment provided by engineer. */
+"Colors" = "颜色";
+
+/* No comment provided by engineer. */
+"Lessica" = "Lessica";
+
+/* No comment provided by engineer. */
+"Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)" = "致谢：\n@LeoNatan: LNTouchVisualizer (MIT 许可证)";
+
+/* No comment provided by engineer. */
+"General" = "通用";

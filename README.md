@@ -1,6 +1,6 @@
 # Touch-Viz
 
-The tweak that displays visual indicators for touch interactions on the screen.
+The **BEST** tweak that displays visual indicators for touch interactions on the screen.
 
 ## Why Touch-Viz, not TouchVis?
 

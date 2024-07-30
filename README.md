@@ -1,6 +1,17 @@
 # Touch-Viz
 
+[now-on-havoc]: https://havoc.app/package/touchvis
+
+[<img width="150" src="https://docs.havoc.app/img/badges/get_square.svg" />][now-on-havoc]
+
 The **BEST** tweak that displays visual indicators for touch interactions on the screen.
+
+- Animations
+- Color pickers
+- Multi-touch support
+- No touch delay or blocking.
+- Legacy, rootless and roothide jailbreaks
+- Displaying interactions always or during screen recording only.
 
 ## Why Touch-Viz, not TouchVis?
 

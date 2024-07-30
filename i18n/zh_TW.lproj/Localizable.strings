@@ -1,71 +1,80 @@
 /* No comment provided by engineer. */
-"Enable Touch-Viz" = "啟用 Touch-Viz";
-
-/* No comment provided by engineer. */
-"Only for Recording" = "僅在錄製時顯示";
-
-/* No comment provided by engineer. */
-"Displays touch indicators only during screen recording." = "僅在進行螢幕錄製時顯示觸控指示器";
-
-/* No comment provided by engineer. */
-"Tracking Effect" = "追蹤效果";
-
-/* No comment provided by engineer. */
-"Morph Effect" = "變形效果";
-
-/* No comment provided by engineer. */
-"Fill Color" = "填充顏色";
-
-/* No comment provided by engineer. */
-"Border Color" = "邊框顏色";
-
-/* No comment provided by engineer. */
 "Animation Duration" = "動畫持續時間";
-
-/* No comment provided by engineer. */
-"Fill Size" = "填充大小";
-
-/* No comment provided by engineer. */
-"Lift Scale" = "縮放比例";
-
-/* No comment provided by engineer. */
-"Border Width" = "邊框寬度";
-
-/* No comment provided by engineer. */
-"Reset to Default" = "重置設定為預設值";
 
 /* No comment provided by engineer. */
 "Are you sure you want to reset all settings to their default values?" = "你確定要重置所有設定為預設值嗎？";
 
 /* No comment provided by engineer. */
-"Reset" = "重置";
+"Border Color" = "邊框顏色";
 
 /* No comment provided by engineer. */
-"Cancel" = "取消";
-
-/* No comment provided by engineer. */
-"Follow me on Twitter" = "在 X 上跟隨我";
-
-/* No comment provided by engineer. */
-"Source Code" = "原始碼";
-
-/* No comment provided by engineer. */
-"Donate" = "小費罐";
-
-/* No comment provided by engineer. */
-"Donate me via PayPal" = "透過 PayPal 捐贈";
-
-/* No comment provided by engineer. */
-"Effects" = "效果";
-
-/* No comment provided by engineer. */
-"Colors" = "顏色";
-
-/* No comment provided by engineer. */
-"Lessica" = "Lessica";
+"Border Width" = "邊框寬度";
 
 /* No comment provided by engineer. */
 "Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)" = "感謝：\n@LeoNatan: LNTouchVisualizer (MIT 許可證)";
 
 /* No comment provided by engineer. */
+"Displays touch indicators only during screen recording." = "僅在進行螢幕錄製時顯示觸控指示器";
+
+/* No comment provided by engineer. */
+"Effects" = "效果";
+
+/* No comment provided by engineer. */
+"Enable Touch-Viz" = "啟用 Touch-Viz";
+
+/* No comment provided by engineer. */
+"Fill Color" = "填充顏色";
+
+/* No comment provided by engineer. */
+"Fill Size" = "填充大小";
+
+/* No comment provided by engineer. */
 "General" = "一般";
+
+/* No comment provided by engineer. */
+"Lift Scale" = "縮放比例";
+
+/* No comment provided by engineer. */
+"Morph Effect" = "變形效果";
+
+/* No comment provided by engineer. */
+"Only for Recording" = "僅在錄製時顯示";
+
+/* No comment provided by engineer. */
+"Please check your network connection and try again later by tapping the screen." = "請檢查您的網路連線，然後點擊螢幕稍後再試。";
+
+/* No comment provided by engineer. */
+"Please check your purchase of “%@” in Sileo." = "請檢查您在 Sileo 中購買的 “%@”。";
+
+/* No comment provided by engineer. */
+"Reset" = "重置";
+
+/* No comment provided by engineer. */
+"Reset to Default" = "重置設定為預設值";
+
+/* No comment provided by engineer. */
+"Touch Colors" = "觸控顏色";
+
+/* No comment provided by engineer. */
+"Touch-Viz" = "Touch-Viz";
+
+/* No comment provided by engineer. */
+"Touch-Viz has been turned off from Control Center." = "Touch-Viz 已從「控制中心」關閉。";
+
+/* No comment provided by engineer. */
+"Touch-Viz has been turned on from Control Center." = "Touch-Viz 已從「控制中心」開啟。";
+
+/* No comment provided by engineer. */
+"Tracking Effect" = "追蹤效果";
+
+/* No comment provided by engineer. */
+"Use Touch Colors" = "使用觸控顏色";
+
+/* No comment provided by engineer. */
+"v%@ - @Lessica" = "v%@ - @Lessica";
+
+/* No comment provided by engineer. */
+"Verification Failed" = "驗證失敗";
+
+/* No comment provided by engineer. */
+"Verifying License" = "驗證許可證";

@@ -11,10 +11,7 @@
 "Border Width" = "Border Width";
 
 /* No comment provided by engineer. */
-"Copy Path" = "Copy Path";
-
-/* No comment provided by engineer. */
-"Copy the path of the support bundle and replace “default.png” with your own image." = "Copy the path of the support bundle and replace “default.png” with your own image.";
+"Change Image" = "Change Image";
 
 /* No comment provided by engineer. */
 "Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)" = "Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)";
@@ -44,9 +41,6 @@
 "Lift Scale" = "Lift Scale";
 
 /* No comment provided by engineer. */
-"Locate the support bundle and replace “default.png” with your own image." = "Locate the support bundle and replace “default.png” with your own image.";
-
-/* No comment provided by engineer. */
 "Morph Effect" = "Morph Effect";
 
 /* No comment provided by engineer. */
@@ -62,10 +56,16 @@
 "Please check your purchase of “%@” in Sileo." = "Please check your purchase of “%@” in Sileo.";
 
 /* No comment provided by engineer. */
+"Remove Image" = "Remove Image";
+
+/* No comment provided by engineer. */
 "Reset" = "Reset";
 
 /* No comment provided by engineer. */
 "Reset to Default" = "Reset to Default";
+
+/* No comment provided by engineer. */
+"Select Image" = "Select Image";
 
 /* No comment provided by engineer. */
 "Touch Colors" = "Touch Colors";
@@ -96,6 +96,3 @@
 
 /* No comment provided by engineer. */
 "Verifying License" = "Verifying License";
-
-/* No comment provided by engineer. */
-"View in Filza" = "View in Filza";

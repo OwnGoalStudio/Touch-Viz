@@ -11,10 +11,7 @@
 "Border Width" = "边框宽度";
 
 /* No comment provided by engineer. */
-"Copy Path" = "拷贝路径";
-
-/* No comment provided by engineer. */
-"Copy the path of the support bundle and replace “default.png” with your own image." = "拷贝资源路径，并用您自己的图片替换 “default.png”。";
+"Change Image" = "更改图片";
 
 /* No comment provided by engineer. */
 "Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)" = "致谢：\n@LeoNatan: LNTouchVisualizer (MIT 许可证)";
@@ -44,9 +41,6 @@
 "Lift Scale" = "抬起缩放";
 
 /* No comment provided by engineer. */
-"Locate the support bundle and replace “default.png” with your own image." = "定位资源路径，并用您自己的图片替换 “default.png”。";
-
-/* No comment provided by engineer. */
 "Morph Effect" = "变形效果";
 
 /* No comment provided by engineer. */
@@ -62,10 +56,16 @@
 "Please check your purchase of “%@” in Sileo." = "请检查您在 Sileo 中购买的 “%@”。";
 
 /* No comment provided by engineer. */
+"Remove Image" = "移除图片";
+
+/* No comment provided by engineer. */
 "Reset" = "重置";
 
 /* No comment provided by engineer. */
 "Reset to Default" = "重置设置";
+
+/* No comment provided by engineer. */
+"Select Image" = "选择图片";
 
 /* No comment provided by engineer. */
 "Touch Colors" = "触摸颜色";
@@ -96,6 +96,3 @@
 
 /* No comment provided by engineer. */
 "Verifying License" = "验证许可证";
-
-/* No comment provided by engineer. */
-"View in Filza" = "在 Filza 中查看";

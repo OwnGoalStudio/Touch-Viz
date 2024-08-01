@@ -11,6 +11,12 @@
 "Border Width" = "邊框寬度";
 
 /* No comment provided by engineer. */
+"Copy Path" = "複製路徑";
+
+/* No comment provided by engineer. */
+"Copy the path of the support bundle and replace “default.png” with your own image." = "複製支援包的路徑，然後用您自己的圖片替換 “default.png”。";
+
+/* No comment provided by engineer. */
 "Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)" = "感謝：\n@LeoNatan: LNTouchVisualizer (MIT 許可證)";
 
 /* No comment provided by engineer. */
@@ -32,13 +38,22 @@
 "General" = "一般";
 
 /* No comment provided by engineer. */
+"Image Effect" = "圖片效果";
+
+/* No comment provided by engineer. */
 "Lift Scale" = "縮放比例";
+
+/* No comment provided by engineer. */
+"Locate the support bundle and replace “default.png” with your own image." = "找到支援包，然後用您自己的圖片替換 “default.png”。";
 
 /* No comment provided by engineer. */
 "Morph Effect" = "變形效果";
 
 /* No comment provided by engineer. */
 "Only for Recording" = "僅在錄製時顯示";
+
+/* No comment provided by engineer. */
+"Opacity" = "不透明度";
 
 /* No comment provided by engineer. */
 "Please check your network connection and try again later by tapping the screen." = "請檢查您的網路連線，然後點擊螢幕稍後再試。";
@@ -68,7 +83,10 @@
 "Tracking Effect" = "追蹤效果";
 
 /* No comment provided by engineer. */
-"Use Touch Colors" = "使用觸控顏色";
+"Use Clear Colors" = "使用透明顏色";
+
+/* No comment provided by engineer. */
+"Use Suggested Colors" = "使用建議的顏色";
 
 /* No comment provided by engineer. */
 "v%@ - @Lessica" = "v%@ - @Lessica";
@@ -78,3 +96,6 @@
 
 /* No comment provided by engineer. */
 "Verifying License" = "驗證許可證";
+
+/* No comment provided by engineer. */
+"View in Filza" = "在 Filza 中查看";

@@ -5,6 +5,12 @@
 "Are you sure you want to reset all settings to their default values?" = "Are you sure you want to reset all settings to their default values?";
 
 /* No comment provided by engineer. */
+"Auto Rotate" = "Auto Rotate";
+
+/* No comment provided by engineer. */
+"Automatically rotates the image to match the path direction." = "Automatically rotates the image to match the path direction.";
+
+/* No comment provided by engineer. */
 "Border Color" = "Border Color";
 
 /* No comment provided by engineer. */
@@ -14,7 +20,13 @@
 "Change Image" = "Change Image";
 
 /* No comment provided by engineer. */
+"Corner Radius" = "Corner Radius";
+
+/* No comment provided by engineer. */
 "Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)" = "Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)";
+
+/* No comment provided by engineer. */
+"Custom Image" = "Custom Image";
 
 /* No comment provided by engineer. */
 "Displays touch indicators only during screen recording." = "Displays touch indicators only during screen recording.";
@@ -54,6 +66,9 @@
 
 /* No comment provided by engineer. */
 "Please check your purchase of “%@” in Sileo." = "Please check your purchase of “%@” in Sileo.";
+
+/* No comment provided by engineer. */
+"Quick Path Effect" = "Quick Path Effect";
 
 /* No comment provided by engineer. */
 "Remove Image" = "Remove Image";

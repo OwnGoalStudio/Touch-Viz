@@ -1,0 +1,113 @@
+/* No comment provided by engineer. */
+"Animation Duration" = "Thời lượng hoạt ảnh";
+
+/* No comment provided by engineer. */
+"Are you sure you want to reset all settings to their default values?" = "Bạn có chắc chắn muốn đặt lại tất cả cài đặt về giá trị mặc định không?";
+
+/* TODO */
+"Auto Rotate" = "Auto Rotate";
+
+/* TODO */
+"Automatically rotates the image to match the path direction." = "Automatically rotates the image to match the path direction.";
+
+/* No comment provided by engineer. */
+"Border Color" = "Màu viền";
+
+/* No comment provided by engineer. */
+"Border Width" = "Chiều rộng Viền";
+
+/* No comment provided by engineer. */
+"Change Image" = "Thay đổi hình ảnh";
+
+/* TODO */
+"Corner Radius" = "Corner Radius";
+
+/* No comment provided by engineer. */
+"Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)" = "Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)\n\nTranslator:\nNguyễn Tuấn (Vietnamese)";
+
+/* TODO */
+"Custom Image" = "Custom Image";
+
+/* No comment provided by engineer. */
+"Displays touch indicators only during screen recording." = "Chỉ hiển thị các chỉ báo cảm ứng trong khi ghi màn hình.";
+
+/* No comment provided by engineer. */
+"Effects" = "Các hiệu ứng";
+
+/* No comment provided by engineer. */
+"Enable Touch-Viz" = "Bật Touch-Viz";
+
+/* No comment provided by engineer. */
+"Fill Color" = "Tô màu";
+
+/* No comment provided by engineer. */
+"Fill Size" = "Chọn kích thước";
+
+/* No comment provided by engineer. */
+"General" = "Tổng quan";
+
+/* No comment provided by engineer. */
+"Image Effect" = "Hiệu ứng hình ảnh";
+
+/* No comment provided by engineer. */
+"Lift Scale" = "Tỉ lệ hoạt ảnh";
+
+/* No comment provided by engineer. */
+"Morph Effect" = "Hiệu ứng biến hình";
+
+/* No comment provided by engineer. */
+"Only for Recording" = "Chỉ dành cho ghi màn hình";
+
+/* No comment provided by engineer. */
+"Opacity" = "Độ mờ";
+
+/* No comment provided by engineer. */
+"Please check your network connection and try again later by tapping the screen." = "Vui lòng kiểm tra kết nối mạng của bạn và thử lại sau bằng cách nhấn vào màn hình.";
+
+/* No comment provided by engineer. */
+"Please check your purchase of “%@” in Sileo." = "Vui lòng kiểm tra giao dịch mua “%@” của bạn trong Sileo.";
+
+/* TODO */
+"Quick Path Effect" = "Quick Path Effect";
+
+/* No comment provided by engineer. */
+"Remove Image" = "Xóa hình ảnh";
+
+/* No comment provided by engineer. */
+"Reset" = "Cài đặt lại";
+
+/* No comment provided by engineer. */
+"Reset to Default" = "Đặt lại về mặc định";
+
+/* No comment provided by engineer. */
+"Select Image" = "Chọn ảnh";
+
+/* No comment provided by engineer. */
+"Touch Colors" = "Touch Colors";
+
+/* No comment provided by engineer. */
+"Touch-Viz" = "Touch-Viz";
+
+/* No comment provided by engineer. */
+"Touch-Viz has been turned off from Control Center." = "Touch-Viz đã bị tắt khỏi Trung tâm điều khiển.";
+
+/* No comment provided by engineer. */
+"Touch-Viz has been turned on from Control Center." = "Touch-Viz đã được bật từ Trung tâm điều khiển.";
+
+/* No comment provided by engineer. */
+"Tracking Effect" = "Hiệu ứng theo dõi";
+
+/* No comment provided by engineer. */
+"Use Clear Colors" = "Sử dụng màu sắc rõ ràng";
+
+/* No comment provided by engineer. */
+"Use Suggested Colors" = "Sử dụng màu sắc được đề xuất";
+
+/* No comment provided by engineer. */
+"v%@ - @Lessica" = "v%@ - @Lessica";
+
+/* No comment provided by engineer. */
+"Verification Failed" = "Xác minh không hoàn thành";
+
+/* No comment provided by engineer. */
+"Verifying License" = "Xác minh giấy phép";

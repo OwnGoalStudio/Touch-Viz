@@ -5,6 +5,12 @@
 "Are you sure you want to reset all settings to their default values?" = "你确定要还原所有设置为默认值吗？";
 
 /* No comment provided by engineer. */
+"Auto Rotate" = "自动旋转";
+
+/* No comment provided by engineer. */
+"Automatically rotates the image to match the path direction." = "自动旋转图片以匹配路径方向。";
+
+/* No comment provided by engineer. */
 "Border Color" = "边框颜色";
 
 /* No comment provided by engineer. */
@@ -14,7 +20,13 @@
 "Change Image" = "更改图片";
 
 /* No comment provided by engineer. */
+"Corner Radius" = "圆角半径";
+
+/* No comment provided by engineer. */
 "Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)" = "致谢：\n@LeoNatan: LNTouchVisualizer (MIT 许可证)";
+
+/* No comment provided by engineer. */
+"Custom Image" = "自定义图片";
 
 /* No comment provided by engineer. */
 "Displays touch indicators only during screen recording." = "仅在屏幕录制期间显示触摸指示器。";
@@ -54,6 +66,9 @@
 
 /* No comment provided by engineer. */
 "Please check your purchase of “%@” in Sileo." = "请检查您在 Sileo 中购买的 “%@”。";
+
+/* No comment provided by engineer. */
+"Quick Path Effect" = "笔刷效果";
 
 /* No comment provided by engineer. */
 "Remove Image" = "移除图片";

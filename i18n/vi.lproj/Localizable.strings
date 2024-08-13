@@ -5,10 +5,10 @@
 "Are you sure you want to reset all settings to their default values?" = "Bạn có chắc chắn muốn đặt lại tất cả cài đặt về giá trị mặc định không?";
 
 /* TODO */
-"Auto Rotate" = "Auto Rotate";
+"Auto Rotate" = "Tự động Xoay";
 
 /* TODO */
-"Automatically rotates the image to match the path direction." = "Automatically rotates the image to match the path direction.";
+"Automatically rotates the image to match the path direction." = "Tự động xoay hình ảnh để phù hợp với hướng di chuyển.";
 
 /* No comment provided by engineer. */
 "Border Color" = "Màu viền";
@@ -20,13 +20,13 @@
 "Change Image" = "Thay đổi hình ảnh";
 
 /* TODO */
-"Corner Radius" = "Corner Radius";
+"Corner Radius" = "Bán Kính Góc";
 
 /* No comment provided by engineer. */
 "Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)" = "Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)\n\nTranslator:\nNguyễn Tuấn (Vietnamese)";
 
 /* TODO */
-"Custom Image" = "Custom Image";
+"Custom Image" = "Tuỳ Chỉnh Hình Ảnh";
 
 /* No comment provided by engineer. */
 "Displays touch indicators only during screen recording." = "Chỉ hiển thị các chỉ báo cảm ứng trong khi ghi màn hình.";
@@ -68,7 +68,7 @@
 "Please check your purchase of “%@” in Sileo." = "Vui lòng kiểm tra giao dịch mua “%@” của bạn trong Sileo.";
 
 /* TODO */
-"Quick Path Effect" = "Quick Path Effect";
+"Quick Path Effect" = "Hiệu ứng di chuyển nhanh";
 
 /* No comment provided by engineer. */
 "Remove Image" = "Xóa hình ảnh";
@@ -83,7 +83,7 @@
 "Select Image" = "Chọn ảnh";
 
 /* No comment provided by engineer. */
-"Touch Colors" = "Touch Colors";
+"Touch Colors" = "Màu sắc Cảm ứng";
 
 /* No comment provided by engineer. */
 "Touch-Viz" = "Touch-Viz";

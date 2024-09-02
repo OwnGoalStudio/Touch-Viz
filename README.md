@@ -13,6 +13,13 @@ The **BEST** tweak that displays visual indicators for touch interactions on the
 - Legacy, rootless and roothide jailbreaks
 - Displaying interactions always or during screen recording only.
 
+## Compatibility
+
+- iOS 15, or 16
+- Dopamine and Dopamine (RootHide)
+- NathanLR's jailbreak
+- SEROTONIN IS SUPPORTED
+
 ## Why Touch-Viz, not TouchVis?
 
 In TouchVis, we used some codes (settings bundle only) from [ShowMyTouches](https://github.com/dayanch96/ShowMyTouches), which is a open-source project from [@dayanch96](https://github.com/dayanch96/ShowMyTouches).

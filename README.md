@@ -9,7 +9,7 @@ The **BEST** tweak that displays visual indicators for touch interactions on the
 - Animations
 - Color pickers
 - Multi-touch & iPad support
-- No touch delay or blocking.
+- No touch delay or blocking
 - Legacy, rootless and roothide jailbreaks
 - Displaying interactions always or during screen recording only.
 - **CC Support**
@@ -27,6 +27,6 @@ See [i18n](./i18n) for more information.
 
 ## Open-Source Credits
 
-TouchVis and Touch-Viz partially uses some codes from open-source projects below:
+Touch-Viz partially uses some codes from open-source projects below:
 
 - **MIT License**, @LeoNatan: [LNTouchVisualizer](https://github.com/LeoNatan/LNTouchVisualizer)

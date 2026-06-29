@@ -17,7 +17,7 @@
 "Border Width" = "Chiều rộng Viền";
 
 /* TODO */
-"Change Emoji" = "Change Emoji";
+"Change Emoji" = "Thay đổi Emoji";
 
 /* No comment provided by engineer. */
 "Change Image" = "Thay đổi hình ảnh";
@@ -77,7 +77,7 @@
 "Quick Path Effect" = "Hiệu ứng di chuyển nhanh";
 
 /* TODO */
-"Remove Emoji" = "Remove Emoji";
+"Remove Emoji" = "Xoá Emoji";
 
 /* No comment provided by engineer. */
 "Remove Image" = "Xóa hình ảnh";
@@ -89,7 +89,7 @@
 "Reset to Default" = "Đặt lại về mặc định";
 
 /* TODO */
-"Select Emoji" = "Select Emoji";
+"Select Emoji" = "Chọn Emoji";
 
 /* No comment provided by engineer. */
 "Select Image" = "Chọn ảnh";
